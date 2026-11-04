@@ -310,3 +310,15 @@ section[id] {
     grid-template-columns: repeat(2, 1fr); 
   }
 }
+
+@media (max-width: 600px) {
+  .header-inner {
+    flex-direction: column;
+    align-items: center;
+    gap: 0.5rem;
+  }
+
+  .nav-list {
+    justify-content: center;
+  }
+}
