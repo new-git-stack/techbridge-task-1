@@ -37,8 +37,6 @@ body {
   color: var(--color-text);
   background: var(--color-bg);
   line-height: 1.6;
-  padding: 0;
-  margin: 0;
 }
 
 img { 
@@ -262,6 +260,7 @@ section[id] {
 .site-footer {
   background: var(--color-primary-dark);
   color: var(--color-on-primary);
+  padding: 0;
   padding-top: 2.5rem;
 }
 
@@ -303,7 +302,12 @@ section[id] {
   gap: 0.35rem;
 }
 
+.site-footer .copyright {
+  margin-bottom: 0;
+}
+
 .copyright {
+  margin: 0;
   margin-top: 2rem;
   padding: 1rem;
   text-align: center;
