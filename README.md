@@ -2,7 +2,7 @@
 
 Live site: https://new-git-stack.github.io/techbridge-task-1/
 
-![Desktop view](screenshots/Dasktop_view.png)
+![Desktop view](screenshots/Desktop_view.png)
 ![Mobile view](screenshots/Mobile_view.jpeg)
 
 ## Developer note
